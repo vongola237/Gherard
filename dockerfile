@@ -1,4 +1,2 @@
 FROM nginx
-COPY static-html-directory /usr/share/nginx/html
-
-
+COPY static-html-directory /home/vongola/Documents/nginx/html/
